@@ -22,7 +22,9 @@
   "permissions": [
     "contextMenus",
     "tabs",
-    "unlimitedStorage"
+    "unlimitedStorage",
+    "http://*/*",
+    "https://*/*"
   ],
 
   "web_accessible_resources": [
